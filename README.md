@@ -1,4 +1,4 @@
-# Empleatronix
+# WorkSpace
 
 This is an application made with _Streamlit_ where the main focus is to learn about the different widgets of this library.
 
